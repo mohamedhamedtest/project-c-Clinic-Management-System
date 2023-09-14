@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1693183510 source:e:\downloads\project2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SDB.h"
+
+1693182382 source:e:\downloads\project2\sdb.c
+	"SDB.h"
+
+1693183388 e:\downloads\project2\sdb.h
+	"STD_TYPES.h"
+
+1693182382 e:\downloads\project2\std_types.h
+
+1693183667 source:e:\downloads\project c clinic management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"SDB.h"
+
+1693183667 e:\downloads\project c clinic management system\sdb.h
+	"STD_TYPES.h"
+
+1693182382 e:\downloads\project c clinic management system\std_types.h
+
+1693183667 source:e:\downloads\project c clinic management system\sdb.c
+	"SDB.h"
+
